@@ -31,7 +31,7 @@ def create_registered_df(df):
     
     return registered_df
 
-df_day=pd.read_csv('https://github.com/ailzaza/assets/raw/main/day.csv')
+df_day=pd.read_csv('https://raw.githubusercontent.com/ailzaza/dashboard_streamlit/main/day.csv')
 # df_hour=pd.read_csv('/content/drive/MyDrive/Dataset_Dicoding/hour.csv')
 df_day['dteday'] = pd.to_datetime(df_day['dteday'])
 
