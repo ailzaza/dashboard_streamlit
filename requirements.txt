@@ -1,9 +1,8 @@
-Babel==2.12.1
-importlib-metadata==5.1.0
-importlib-resources==5.10.1
-matplotlib @ file:///D:/bld/matplotlib-suite_1667505124848/work
-matplotlib-inline==0.1.6
-numpy @ file:///D:/bld/numpy_1668919236258/work
-pandas @ file:///D:/bld/pandas_1669134777944/work
-seaborn==0.12.1
-streamlit==1.19.0
+Babel
+importlib-metadata
+importlib-resources
+matplotlib 
+numpy
+pandas 
+seaborn
+streamlit
